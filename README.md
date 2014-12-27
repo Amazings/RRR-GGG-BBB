@@ -1,2 +1,1 @@
-scratch
-=======
+This is a scratch repository.
