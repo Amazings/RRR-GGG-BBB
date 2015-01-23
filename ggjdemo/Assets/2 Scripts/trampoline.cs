@@ -37,7 +37,7 @@ public class trampoline : MonoBehaviour {
 						Debug.Log ("collide");
 						willBounce = true;
 			gameObject.transform.localScale = new Vector3(gameObject.transform.localScale.x, 
-			                                              gameObject.transform.localScale.y/2
+			                                              gameObject.transform.localScale.y/4
 			                                              , gameObject.transform.localScale.z);
 				}
 		
@@ -50,7 +50,7 @@ public class trampoline : MonoBehaviour {
 			Debug.Log ("collide");
 			willBounce = false;
 			gameObject.transform.localScale = new Vector3(gameObject.transform.localScale.x, 
-			                                              gameObject.transform.localScale.y*2
+			                                              gameObject.transform.localScale.y*4
 			                                              , gameObject.transform.localScale.z);
 		}
 		
