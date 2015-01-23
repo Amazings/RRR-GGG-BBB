@@ -70,10 +70,14 @@
      <Compile Include="Assets\1 Models\CrossPlatformInput\Scripts\TiltInput.cs" />
      <Compile Include="Assets\1 Models\CrossPlatformInput\Scripts\TouchPad.cs" />
      <Compile Include="Assets\1 Models\CrossPlatformInput\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\2 Scripts\CharacterControls.cs" />
      <Compile Include="Assets\2 Scripts\MouseLook.cs" />
+     <Compile Include="Assets\2 Scripts\Movement.cs" />
+     <Compile Include="Assets\2 Scripts\MovingPlatform.cs" />
      <Compile Include="Assets\2 Scripts\onClickBlue.cs" />
      <Compile Include="Assets\2 Scripts\onClickGreen.cs" />
      <Compile Include="Assets\2 Scripts\onClickRed.cs" />
+     <Compile Include="Assets\2 Scripts\trampoline.cs" />
      <None Include="Assets\Standard Assets\Glass Refraction (Pro Only)\Sources\Shaders\Glass-Stained-BumpDistort.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
