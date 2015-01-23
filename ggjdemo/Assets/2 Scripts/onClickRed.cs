@@ -14,17 +14,14 @@ public class onClickRed : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetMouseButtonDown (0)) {
-			Debug.Log ("Pressed left click.");
-			
-			renderer.material.shader = shader2;
-			collider.enabled = false;
+			renderer.material.shader = shader1;			
+			collider.enabled= true;
 			
 		}
 		
 		
 		
 		if (Input.GetMouseButtonDown (1)) {
-			Debug.Log ("Pressed right click.");
 			renderer.material.shader = shader2;
 			collider.enabled = false;
 		}
@@ -32,11 +29,9 @@ public class onClickRed : MonoBehaviour {
 		
 		
 		if (Input.GetMouseButtonDown (2)) {
-			Debug.Log ("Pressed middle click.");
-			
-			renderer.material.shader = shader1;
-			
-			collider.enabled= true;
+			renderer.material.shader = shader2;
+			collider.enabled = false;
+
 		}
 	}
 }
