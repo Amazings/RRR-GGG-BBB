@@ -33,7 +33,7 @@ public class trampoline : MonoBehaviour {
 	void OnCollisionEnter (Collision other)
 	{
 		Debug.Log ("collided na");
-		if (other.gameObject.name == "Player") {
+		if (other.gameObject.tag == "Player") {
 						Debug.Log ("collide");
 						willBounce = true;
 			gameObject.transform.localScale = new Vector3(gameObject.transform.localScale.x, 
@@ -45,10 +45,17 @@ public class trampoline : MonoBehaviour {
 
 	void OnCollisionExit (Collision other)
 	{
+		Debug.Log ("collided na");
+		if (other.gameObject.tag == "Player") {
+			Debug.Log ("collide");
 			willBounce = false;
-		gameObject.transform.localScale = new Vector3(gameObject.transform.localScale.x, 
-		                                              gameObject.transform.localScale.y * 2
-		                                              , gameObject.transform.localScale.z);
+			gameObject.transform.localScale = new Vector3(gameObject.transform.localScale.x, 
+			                                              gameObject.transform.localScale.y*2
+			                                              , gameObject.transform.localScale.z);
+		}
+		
 	}
+
+
 	
 }
