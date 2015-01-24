@@ -3,7 +3,7 @@ using System.Collections;
 
 public class onClickRed : MonoBehaviour {
 	static Shader shader1 = Shader.Find("Diffuse");
-	static Shader shader2  = Shader.Find("Particles/Additive");
+	static Shader shader2  = Shader.Find("Particles/Additive (Soft)");
 	//static Shader shader2  = Shader.Find("Particles/Multiply (Double)");
 	// Use this for initialization
 	void Start () {
