@@ -1,3 +1,323 @@
 Base path: C:/Program Files (x86)/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-5208
+Pipe name: \\.\pipe\UnityShaderCompiler-1-7064
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=2555 outsize=3655 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9019 outsize=2615 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9019 outsize=1266 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4983 outsize=2883 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4983 outsize=1583 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3991 outsize=1485 kw=V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3991 outsize=640 kw=V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8383 outsize=2891 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8383 outsize=1193 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3584 outsize=1412 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3584 outsize=445 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4659 outsize=2604 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1003 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1003 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=906 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=906 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4551 outsize=2603 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=968 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=968 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=871 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=871 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4283 outsize=2611 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=878 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=878 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=781 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=781 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=2689 outsize=3410 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9773 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9773 outsize=1242 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5739 outsize=2875 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5739 outsize=1542 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4749 outsize=1477 kw=V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4749 outsize=632 kw=V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9139 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9139 outsize=1152 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4342 outsize=1404 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4342 outsize=437 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4438 outsize=2596 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=933 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=933 outsize=1185 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=836 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=836 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4269 outsize=2595 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=879 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=879 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=782 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=782 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4399 outsize=2607 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=917 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=917 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=820 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=820 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4274 outsize=2602 ok=1
+Cmd: preprocess
+  insize=4378 outsize=2601 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=912 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=912 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=815 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=815 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4174 outsize=2595 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=849 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=849 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=752 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=752 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4539 outsize=2600 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=965 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=965 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=868 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=868 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4279 outsize=2601 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=880 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=880 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=783 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=783 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4356 outsize=2607 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=903 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=903 outsize=1185 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=806 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=806 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4280 outsize=2608 ok=1
+Cmd: preprocess
+  insize=4479 outsize=2609 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=942 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=942 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=845 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=845 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4561 outsize=2628 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=962 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=962 outsize=1185 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=865 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=865 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4411 outsize=2611 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=920 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=920 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=823 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=823 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4336 outsize=2605 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=897 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=897 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=800 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=800 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4919 outsize=2713 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1086 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1086 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4543 outsize=2601 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=966 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=966 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=869 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=869 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4686 outsize=2579 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1019 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1019 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=922 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=922 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=1016 outsize=1415 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5375 outsize=4232 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5375 outsize=2923 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2970 outsize=3882 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2970 outsize=3208 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2648 outsize=2915 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2648 outsize=1550 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4813 outsize=3135 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4813 outsize=1729 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=6019 outsize=2944 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1126 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1126 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1069 outsize=2826 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1069 outsize=1697 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=969 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=969 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4258 outsize=2583 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=879 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=879 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=782 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=782 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=2675 outsize=2613 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=9750 outsize=2607 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=9750 outsize=1242 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5685 outsize=2875 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5685 outsize=1542 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=4379 outsize=2599 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=913 outsize=2038 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=913 outsize=1128 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=816 outsize=1599 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=816 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: preprocess
+  insize=3032 outsize=3403 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10753 outsize=3305 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10753 outsize=1518 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6611 outsize=3305 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6611 outsize=1591 kw=POINT SHADOWS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5621 outsize=2217 kw=V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5621 outsize=681 kw=V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10058 outsize=3549 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10058 outsize=1428 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5214 outsize=2444 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5214 outsize=510 kw=SHADOWS_DEPTH V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1019 outsize=1802 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1019 outsize=1493 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF V_FR_EDITOR_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2970 outsize=3102 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2970 outsize=2737 kw=DIRECTIONAL ok=1
