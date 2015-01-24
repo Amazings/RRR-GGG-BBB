@@ -6,7 +6,7 @@ public class onClickBlue : MonoBehaviour {
 	// Use this for initialization
 	static Shader shader1 = Shader.Find("Diffuse");
 	static Shader shader2 = Shader.Find("Particles/Additive (Soft)");
-	static Shader shader3 = null;
+
 	//static Shader shader2  = Shader.Find("Particles/Multiply (Double)");
 	void Start () {
 		renderer.material.shader = shader2;
