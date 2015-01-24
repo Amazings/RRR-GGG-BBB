@@ -73,6 +73,7 @@
      <Compile Include="Assets\2 Scripts\BackToCheckpoint.cs" />
      <Compile Include="Assets\2 Scripts\CharacterControls.cs" />
      <Compile Include="Assets\2 Scripts\CoinCollector.cs" />
+     <Compile Include="Assets\2 Scripts\Finish.cs" />
      <Compile Include="Assets\2 Scripts\FixedRotation.cs" />
      <Compile Include="Assets\2 Scripts\MouseLook.cs" />
      <Compile Include="Assets\2 Scripts\Movement.cs" />
