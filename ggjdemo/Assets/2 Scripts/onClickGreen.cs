@@ -13,25 +13,18 @@ public class onClickGreen : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonDown (0)) {
+		if (Input.GetMouseButtonDown (0) || Input.GetKeyDown(KeyCode.J)) {
 			renderer.material.shader = shader2;
 			collider.enabled = false;
-
-				}
-			
-
-
-		if (Input.GetMouseButtonDown (1)) {
+		}
+		
+		if (Input.GetMouseButtonDown (1) || Input.GetKeyDown(KeyCode.L)) {
 			renderer.material.shader = shader2;
 			collider.enabled=false;
-			}
-
-
+		}
 		
-		if (Input.GetMouseButtonDown (2)) {
-
+		if (Input.GetMouseButtonDown (2) || Input.GetKeyDown(KeyCode.K)) {
 			renderer.material.shader = shader1;
-			
 			collider.enabled= true;
 		}
 	}
