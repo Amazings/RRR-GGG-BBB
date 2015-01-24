@@ -5,7 +5,7 @@ public class trampoline : MonoBehaviour {
 
 	
 	bool willBounce = false;
-	float bounceHeight = 10;
+	//float bounceHeight = 10;
 	public Transform Player;
 	public Vector3 velocity;
 
