@@ -7,8 +7,10 @@ public class BackToCheckpoint : MonoBehaviour {
 	
 	void OnCollisionEnter(Collision collision)
 	{
-		if (collision.gameObject.tag == "Block")
+		Debug.Log("collision");
+		if (collision.gameObject.tag == "Checkpoint")
 		{
+
 			lastGoodPosition = transform.position;
 		}
 		else if (collision.gameObject.tag == "Respawn")
