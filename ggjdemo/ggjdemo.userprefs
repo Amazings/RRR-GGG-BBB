@@ -2,12 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\1 Models\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs">
     <Files>
-      <File FileName="Assets\2 Scripts\MovingPlatform.cs" Line="1" Column="1" />
-      <File FileName="Assets\2 Scripts\trampoline.cs" Line="1" Column="1" />
-      <File FileName="Assets\2 Scripts\MovingPlatformY.cs" Line="1" Column="1" />
-      <File FileName="Assets\1 Models\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" Line="1" Column="1" />
-      <File FileName="Assets\1 Models\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
-      <File FileName="Assets\2 Scripts\FixedRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\2 Scripts\onClickBlue.cs" Line="16" Column="18" />
+      <File FileName="Assets\2 Scripts\onClickGreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\2 Scripts\onClickRed.cs" Line="13" Column="2" />
+      <File FileName="Assets\1 Models\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="79" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

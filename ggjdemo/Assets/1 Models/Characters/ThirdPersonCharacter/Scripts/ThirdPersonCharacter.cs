@@ -76,7 +76,7 @@ namespace UnitySampleAssets.Characters.ThirdPerson
             SetUpAnimator();
 
             // give the look position a default in case the character is not under control
-            currentLookPos = Camera.main.transform.position;
+            //currentLookPos = Camera.main.transform.position;
         }
 
         IEnumerator BlendLookWeight()
