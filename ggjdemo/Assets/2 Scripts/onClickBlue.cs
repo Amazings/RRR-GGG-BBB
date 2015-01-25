@@ -15,20 +15,20 @@ public class onClickBlue : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonDown (0) || Input.GetKeyDown(KeyCode.J)) {
+		if (Input.GetMouseButtonDown (0) || Input.GetButtonDown("Red")) {
 			renderer.material.shader = shader2;
 			collider.enabled= false;
 			
 		}
 		
-		if (Input.GetMouseButtonDown (1) || Input.GetKeyDown(KeyCode.L)) {
+		if (Input.GetMouseButtonDown (1) || Input.GetButtonDown("Blue")) {
 			
 			renderer.material.shader = shader1;
 			collider.enabled = true;
 		}
 		
 		
-		if (Input.GetMouseButtonDown (2) || Input.GetKeyDown(KeyCode.K)) {
+		if (Input.GetMouseButtonDown (2) || Input.GetButtonDown("Green")) {
 			renderer.material.shader = shader2;
 			collider.enabled=false;
 		}
