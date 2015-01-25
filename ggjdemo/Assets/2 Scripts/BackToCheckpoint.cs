@@ -4,7 +4,7 @@ using System.Collections;
 public class BackToCheckpoint : MonoBehaviour {
 
 	public Vector3 lastGoodPosition = new Vector3( 0,0,0);
-	
+	public string nextScene = "";
 	void OnCollisionEnter(Collision collision)
 	{
 		Debug.Log("collision");
@@ -17,6 +17,12 @@ public class BackToCheckpoint : MonoBehaviour {
 		{
 			Debug.Log ("asdD");
 			transform.position = lastGoodPosition;
+		}
+		else if (collision.gameObject.tag == "Finish")
+		{
+			Debug.Log ("asdD");
+			if( nextScene != "")
+			Application.LoadLevel(nextScene);
 		}
 	}
 }
