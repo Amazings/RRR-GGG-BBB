@@ -178,16 +178,16 @@
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="VacuumShaders">
- <HintPath>C:/Users/CHESTER/Documents/GitHub/scratch/ggjdemo/Assets/VacuumShaders/Editor/VacuumShaders.dll</HintPath>
+ <HintPath>C:/Users/CHESTER/Documents/GitHub/RRR-GGG-BBB/ggjdemo/Assets/VacuumShaders/Editor/VacuumShaders.dll</HintPath>
  </Reference>
  <Reference Include="VacuumShaders.FragmentumVC">
- <HintPath>C:/Users/CHESTER/Documents/GitHub/scratch/ggjdemo/Assets/VacuumShaders/Fragmentum/Editor/VacuumShaders.FragmentumVC.dll</HintPath>
+ <HintPath>C:/Users/CHESTER/Documents/GitHub/RRR-GGG-BBB/ggjdemo/Assets/VacuumShaders/Fragmentum/Editor/VacuumShaders.FragmentumVC.dll</HintPath>
  </Reference>
  <Reference Include="VacuumShaders.Fragmentum_Editor">
- <HintPath>C:/Users/CHESTER/Documents/GitHub/scratch/ggjdemo/Assets/VacuumShaders/Fragmentum/Editor/VacuumShaders.Fragmentum_Editor.dll</HintPath>
+ <HintPath>C:/Users/CHESTER/Documents/GitHub/RRR-GGG-BBB/ggjdemo/Assets/VacuumShaders/Fragmentum/Editor/VacuumShaders.Fragmentum_Editor.dll</HintPath>
  </Reference>
  <Reference Include="VacuumShaders.Fragmentum">
- <HintPath>C:/Users/CHESTER/Documents/GitHub/scratch/ggjdemo/Assets/VacuumShaders/Fragmentum/Scripts/VacuumShaders.Fragmentum.dll</HintPath>
+ <HintPath>C:/Users/CHESTER/Documents/GitHub/RRR-GGG-BBB/ggjdemo/Assets/VacuumShaders/Fragmentum/Scripts/VacuumShaders.Fragmentum.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>

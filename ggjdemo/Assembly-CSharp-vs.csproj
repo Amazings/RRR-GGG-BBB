@@ -205,13 +205,13 @@
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/CHESTER/Documents/GitHub/scratch/ggjdemo/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/CHESTER/Documents/GitHub/RRR-GGG-BBB/ggjdemo/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="VacuumShaders.Fragmentum">
- <HintPath>C:/Users/CHESTER/Documents/GitHub/scratch/ggjdemo/Assets/VacuumShaders/Fragmentum/Scripts/VacuumShaders.Fragmentum.dll</HintPath>
+ <HintPath>C:/Users/CHESTER/Documents/GitHub/RRR-GGG-BBB/ggjdemo/Assets/VacuumShaders/Fragmentum/Scripts/VacuumShaders.Fragmentum.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
