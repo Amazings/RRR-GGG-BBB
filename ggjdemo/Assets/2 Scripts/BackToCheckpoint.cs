@@ -22,7 +22,8 @@ public class BackToCheckpoint : MonoBehaviour {
 		{
 			Debug.Log ("asdD");
 			if( nextScene != "")
-			Application.LoadLevel(nextScene);
+			//Application.LoadLevel(nextScene);
+			AutoFade.LoadLevel(nextScene, 0.5f, 0.5f, Color.black);
 		}
 	}
 }

@@ -70,6 +70,7 @@
      <Compile Include="Assets\1 Models\CrossPlatformInput\Scripts\TiltInput.cs" />
      <Compile Include="Assets\1 Models\CrossPlatformInput\Scripts\TouchPad.cs" />
      <Compile Include="Assets\1 Models\CrossPlatformInput\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\2 Scripts\AutoFade.cs" />
      <Compile Include="Assets\2 Scripts\BackToCheckpoint.cs" />
      <Compile Include="Assets\2 Scripts\CharacterControls.cs" />
      <Compile Include="Assets\2 Scripts\CoinCollector.cs" />
@@ -79,6 +80,7 @@
      <Compile Include="Assets\2 Scripts\Movement.cs" />
      <Compile Include="Assets\2 Scripts\MovingPlatform.cs" />
      <Compile Include="Assets\2 Scripts\MovingPlatformY.cs" />
+     <Compile Include="Assets\2 Scripts\RealTime.cs" />
      <Compile Include="Assets\2 Scripts\onClickBlue.cs" />
      <Compile Include="Assets\2 Scripts\onClickGreen.cs" />
      <Compile Include="Assets\2 Scripts\onClickRed.cs" />
