@@ -16,21 +16,23 @@ public class onClickBlue : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetMouseButtonDown (0) || Input.GetButtonDown("Red")) {
+			Debug.Log("Red Platforms Activated!");
 			renderer.material.shader = shader2;
 			collider.enabled= false;
 			
 		}
 		
-		if (Input.GetMouseButtonDown (1) || Input.GetButtonDown("Blue")) {
-			
+		else if (Input.GetMouseButtonDown (1) || Input.GetButtonDown("Blue")) {
+			Debug.Log("Blue Platforms Activated!");
 			renderer.material.shader = shader1;
 			collider.enabled = true;
 		}
 		
 		
-		if (Input.GetMouseButtonDown (2) || Input.GetButtonDown("Green")) {
+		else if (Input.GetMouseButtonDown (2) || Input.GetButtonDown("Green")) {
+			Debug.Log("Green Platforms Activated!");
 			renderer.material.shader = shader2;
-			collider.enabled=false;
+			collider.enabled = false;
 		}
 	}
 }

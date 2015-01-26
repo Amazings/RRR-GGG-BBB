@@ -81,6 +81,7 @@
      <Compile Include="Assets\2 Scripts\MovingPlatform.cs" />
      <Compile Include="Assets\2 Scripts\MovingPlatformY.cs" />
      <Compile Include="Assets\2 Scripts\RealTime.cs" />
+     <Compile Include="Assets\2 Scripts\TransformBoat.cs" />
      <Compile Include="Assets\2 Scripts\onClickBlue.cs" />
      <Compile Include="Assets\2 Scripts\onClickGreen.cs" />
      <Compile Include="Assets\2 Scripts\onClickRed.cs" />
