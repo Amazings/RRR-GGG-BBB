@@ -8,14 +8,19 @@ public class BackToCheckpoint : MonoBehaviour {
 	void OnCollisionEnter(Collision collision)
 	{
 		Debug.Log("collision");
+		if (collision.gameObject.tag == "Respawn" && Application.loadedLevelName == "1-2")
+		{
+			AutoFade.LoadLevel("1-2", 0.5f, 0.5f, Color.black);
+		//	lastGoodPosition = transform.position;
+		}
 		if (collision.gameObject.tag == "Checkpoint")
 		{
-
 			lastGoodPosition = transform.position;
 		}
-		else if (collision.gameObject.tag == "Respawn")
+
+		else if (collision.gameObject.tag == "Respawn" && Application.loadedLevelName != "1-2")
 		{
-			Debug.Log ("asdD");
+			Debug.Log ("Player is out of bounds!");
 			transform.position = lastGoodPosition;
 		}
 		else if (collision.gameObject.tag == "Finish")
