@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2 Scripts\BackToCheckpoint.cs">
     <Files>
-      <File FileName="Assets\2 Scripts\BackToCheckpoint.cs" Line="18" Column="28" />
-      <File FileName="Assets\2 Scripts\CoinCollector.cs" Line="1" Column="1" />
-      <File FileName="Assets\2 Scripts\onClickBlue.cs" Line="1" Column="1" />
-      <File FileName="Assets\2 Scripts\onClickGreen.cs" Line="1" Column="1" />
-      <File FileName="Assets\2 Scripts\onClickRed.cs" Line="27" Column="1" />
+      <File FileName="Assets\2 Scripts\BackToCheckpoint.cs" Line="35" Column="3" />
+      <File FileName="Assets\2 Scripts\TransformBoat.cs" Line="17" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
