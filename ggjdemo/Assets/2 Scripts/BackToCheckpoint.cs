@@ -19,6 +19,8 @@ public class BackToCheckpoint : MonoBehaviour {
 			TransformBoat other = (TransformBoat) go.GetComponent(typeof(TransformBoat));
 			other.ResetBoat("Y");
 
+
+
 		}
 
 		//if (collision.gameObject.tag == "Checkpoint" && collision.gameObject.name != "Checkpoint")

@@ -13,9 +13,10 @@ public class onClickRed : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
 		if (Input.GetMouseButtonDown (0) || Input.GetButtonDown("Red")) {
-			renderer.material.shader = shader1;			
-			collider.enabled= true;
+				renderer.material.shader = shader1;			
+				collider.enabled= true;
 		}
 		
 		if (Input.GetMouseButtonDown (1) || Input.GetButtonDown("Blue")) {
